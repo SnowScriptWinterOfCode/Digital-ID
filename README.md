@@ -1,7 +1,13 @@
 # Digital-ID Flutter Project
 
 ## Overview
-Digital-ID is a Flutter project designed to create a digital identity card generator. Users can input their personal information, such as name, email, and phone number, to generate a digital card. The project focuses on enhancing user experience and customization using Flutter framework.
+Digital-ID is a Flutter project designed to create a digital identity card generator. Users can input their personal information, such as name, email, and phone number, to generate a digital card. The project focuses on enhancing user experience and customization using the Flutter framework.
+
+
+## Maintainers 
+@Aarushi-29 and @Nitya-Pasrija
+
+Feel free to contact them if you feel stuck at any point, or wish to report someone.
 
 ## Tech Stack Used
 - Flutter
