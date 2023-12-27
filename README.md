@@ -1,4 +1,5 @@
 # Digital-ID Flutter Project
+![image](https://github.com/SnowScriptWinterOfCode/Digital-ID/assets/97171261/088f6154-c558-4121-b268-19870f3c3c90)
 
 ## Overview
 Digital-ID is a Flutter project designed to create a digital identity card generator. Users can input their personal information, such as name, email, and phone number, to generate a digital card. The project focuses on enhancing user experience and customization using the Flutter framework.
@@ -32,4 +33,4 @@ Feel free to contact them if you feel stuck at any point, or wish to report some
 
 - Respectful and inclusive communication is essential. Avoid using offensive language.
 - Mention your full name on your GitHub handle to be eligible for prizes.
-- Contribution period ends on January 26, 2024.
+- Contribution period ends on January 28, 2024.
