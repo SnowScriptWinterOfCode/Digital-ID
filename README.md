@@ -8,6 +8,9 @@ Digital-ID is a Flutter project designed to create a digital identity card gener
 ## Maintainers 
 [@Aarushi-29](https://github.com/@Aarushi-29) and [@Nitya-Pasrija](https://github.com/Nitya-Pasrija)
 
+## Reviewers
+@Namya13Jain
+
 Feel free to contact them if you feel stuck at any point, or wish to report someone.
 
 ## Tech Stack Used
