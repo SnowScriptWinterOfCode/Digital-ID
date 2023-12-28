@@ -8,6 +8,9 @@ Digital-ID is a Flutter project designed to create a digital identity card gener
 ## Maintainers 
 @Aarushi-29 and @Nitya-Pasrija
 
+## Reviewers
+[IshitaPathak](https://github.com/IshitaPathak)
+
 Feel free to contact them if you feel stuck at any point, or wish to report someone.
 
 ## Tech Stack Used
@@ -16,7 +19,7 @@ Feel free to contact them if you feel stuck at any point, or wish to report some
 ## Features to be Added
 
 1. **Splash Screen:** Enhance the user experience with an appealing splash screen.
-2. **Generate Digital Card:** Allow users to generate a digital card from the entered information.
+2. **Generate Digital Card:** Users can generate a digital card from the entered information.
 3. **Add New Font:** Integrate a new font to enhance the text appearance in the application.
 4. **Select Digital ID Type:** Implement a screen for users to select the type of Digital ID to be generated (e.g., Corporate ID, College ID, etc.).
 
@@ -29,8 +32,37 @@ Feel free to contact them if you feel stuck at any point, or wish to report some
 5. Incorporate suggestions from the review to improve your contribution.
 6. Once approved, your changes will be merged into the project.
 
+## Getting Started
+To run this project, you will need to follow these steps
+
+Clone the project
+
+```bash
+  git clone https://github.com/your-username/Digital-ID.git
+
+```
+
+Navigate to the project directory:
+
+```bash
+  cd Digital-ID
+```
+
+Install dependencies:
+
+```bash
+  flutter pub get
+```
+
+Run the application:
+
+```bash
+  flutter run
+```
+
+
 ## Contribution Guidelines
 
 - Respectful and inclusive communication is essential. Avoid using offensive language.
 - Mention your full name on your GitHub handle to be eligible for prizes.
-- Contribution period ends on January 28, 2024.
+The contribution period ends on January 28, 2024.
